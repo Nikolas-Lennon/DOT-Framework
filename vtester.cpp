@@ -1,5 +1,7 @@
 /*
    vtester.cpp
+   
+   Nikolas Lennon
 
    Test harness for the vehicle object hierarchy
 
