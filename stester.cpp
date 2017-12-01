@@ -1,6 +1,8 @@
 /*
    shapetester.cpp
    
+   Nikolas Lennon
+   
    Test harness for the shape object hierarchy:
     0 - Shape
     1 - Box
